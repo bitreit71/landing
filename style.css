@@ -545,7 +545,7 @@ h1, h2, h3, h4, h5, h6 {font-size: inherit;font-weight: inherit; }
   position: relative;
   top: 9px;
   left: 17px;
-  content: url('../img/arrow.png');
+  content: url('arrow.png');
 }
 
 .screen-5 {
@@ -701,7 +701,7 @@ h1, h2, h3, h4, h5, h6 {font-size: inherit;font-weight: inherit; }
 
 .screen-5__email:before {
   padding-right: 11px;
-  content: url(../img/icons-footer/mail.png);
+  content: url(mail.png);
 }
 
 .screen-5__tel {
@@ -718,7 +718,7 @@ h1, h2, h3, h4, h5, h6 {font-size: inherit;font-weight: inherit; }
   position: relative;
   left: 2px;
   padding-right: 17px;
-  content: url(../img/icons-footer/tel.png);
+  content: url(tel.png);
 }
 
 .screen-5__block-5 {
@@ -911,7 +911,7 @@ h1, h2, h3, h4, h5, h6 {font-size: inherit;font-weight: inherit; }
 
     .screen-5__email:before {
       padding-right: 11px;
-      content: url(../img/icons-footer/mail.png);
+      content: url(mail.png);
     }
 
     .screen-5__tel {
@@ -927,7 +927,7 @@ h1, h2, h3, h4, h5, h6 {font-size: inherit;font-weight: inherit; }
       position: relative;
       left: 2px;
       padding-right: 17px;
-      content: url(../img/icons-footer/tel.png);
+      content: url(tel.png);
     }
 
     .screen-5__block-5 {
